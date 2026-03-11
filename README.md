@@ -2,6 +2,14 @@
 
 An AI chatbot built using Google Gemini API and Streamlit.
 
+## Demo
+
+![Gemini AI Chatbot](chatbot-demo.png)
+
+## Live Demo
+
+https://suneel-gemini-chatbot.streamlit.app
+
 ## Features
  Conversational AI
 - Gemini 2.5 Flash model
